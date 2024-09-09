@@ -64,7 +64,7 @@ GHost++ depends on cmake, libboost, libgmp, zlib, libbz2, and libmysqlclient. Th
 	cd ../../ghost/
 	make
 
-GHost++ on Alpine 3.13.1
+GHost++ on Alpine 3.18
 
 	apk add alpine-sdk boost-dev bzip2-dev gmp-dev zlib-dev libbz2 bzip2-dev mariadb-connector-c-dev cmake
 	git clone https://github.com/maxemann96/ghostpp
